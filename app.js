@@ -465,7 +465,7 @@ l. Output : “The remainder is : 0”.
 //     alert("The number is odd.")
 // }
 
-
+// Q-no : 
 
 
 
